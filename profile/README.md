@@ -38,7 +38,7 @@
     <img src="https://github.com/Tutora-ia/.github/assets/144457305/e47bcfa3-c300-409a-aa1f-8db7baad7a69" alt="Beatriz" style="display: block; width: 325px; height: auto; margin-right: 20px;" align="left">
 </a>
 <a href="https://www.linkedin.com/in/camille-alves-cruz-42a229288" target="_blank" style="display: inline-block; text-decoration: none;">
-    <img src="https://github.com/Tutora-ia/.github/assets/144457305/1c459a91-9af9-4303-b1b0-e4404dfe311a" alt="Camille" style="display: block; width: 325px; height: auto; margin-right: 20px;" align="right">
+    <img src="https://github.com/Tutora-ia/.github/assets/144457305/fefd0f33-3ef5-4276-9559-d4f525c21e4b" alt="Camille" style="display: block; width: 325px; height: auto; margin-right: 20px;" align="right">
 </a>
 <a href="https://www.linkedin.com/in/davirsouza" target="_blank" style="display: inline-block; text-decoration: none;">
     <img src="https://github.com/Tutora-ia/.github/assets/144457305/a54fa882-0da7-4c24-b7d2-d3b3095545bf" alt="Davi" style="display: block; width: 325px; height: auto; margin-right: 20px;" align="left">
