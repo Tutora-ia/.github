@@ -1,5 +1,5 @@
 ---
-![GitHub](https://github.com/Tutora-ia/.github/assets/144457305/22d5ab63-a95a-460f-bfd2-38ef06dba002)
+![Capa](https://github.com/Tutora-ia/.github/assets/144457305/22d5ab63-a95a-460f-bfd2-38ef06dba002)
 <h1 align="center">Tutora.IA: Desenvolvendo seu Potencial Linguístico</h1>
 <h3 align="center">Tutora.ia é um projeto dedicado a oferecer uma plataforma rica em dinâmicas de ensino, visando capacitar indivíduos a atingir todo o seu potencial linguístico.<br><br> Por meio da inteligência artificial, nossa plataforma produz um material de apoio essencial, elaborado para tornar a experiência de aprendizado não apenas envolvente, mas também irresistivelmente atrativa, através da gamificação do ensino e da aplicação de diversas metodologias.<br><br> Nosso compromisso é proporcionar uma jornada educacional dinâmica e inspiradora, adaptada a cada usuário, visando atender às suas necessidades individuais e otimizar seu processo de aprendizagem.</h3>
 <br><br>
@@ -30,4 +30,16 @@
 ![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
 
 
-<h1 align="center">Nossa Equipe de desenvolvimento</h1>
+<h1 align="center">Conheça Nosso Time</h1>
+<a href="LINK_DO_LINKEDIN_BEATRIZ" target="_blank" style="display: inline-block; text-decoration: none; margin: 0 auto; text-align: center;">
+    <img src="https://github.com/Tutora-ia/.github/assets/144457305/e47bcfa3-c300-409a-aa1f-8db7baad7a69" alt="Beatriz" style="display: block; width: 350px; height: auto; margin: 0 auto;">
+</a>
+
+<a href="LINK_DO_LINKEDIN_CAMILLE" target="_blank" style="display: inline-block; text-decoration: none; margin: 0 auto; text-align: center;">
+    <img src="https://github.com/Tutora-ia/.github/assets/144457305/1c459a91-9af9-4303-b1b0-e4404dfe311a" alt="Camille" style="display: block; width: 350px; height: auto; margin: 0 auto;">
+</a>
+
+<a href="LINK_DO_LINKEDIN_DAVI" target="_blank" style="display: inline-block; text-decoration: none; margin: 0 auto; text-align: center;">
+    <img src="https://github.com/Tutora-ia/.github/assets/144457305/a54fa882-0da7-4c24-b7d2-d3b3095545bf" alt="Davi" style="display: block; width: 350px; height: auto; margin: 0 auto;">
+</a>
+
