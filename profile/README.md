@@ -29,6 +29,9 @@
 ![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
 
+## Nossas Redes Sociais
+<a href="https://www.linkedin.com/company/tutora-ia/" target="_blank" rel="noopener noreferrer"> <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/> </a>
+<a href="https://www.instagram.com/tutora.ia/" target="_blank" rel="noopener noreferrer"> <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
 
 <h1 align="center">Conheça Nosso Time</h1>
 <a href="https://www.linkedin.com/in/beatriz-kailane-3513b5248" target="_blank" style="display: inline-block; text-decoration: none;">
