@@ -1,4 +1,3 @@
----
 ![Capa](https://github.com/Tutora-ia/.github/assets/144457305/22d5ab63-a95a-460f-bfd2-38ef06dba002)
 <h1 align="center">Tutora.IA: Desenvolvendo seu Potencial Linguístico</h1>
 <h3 align="center">Tutora.ia é um projeto dedicado a oferecer uma plataforma rica em dinâmicas de ensino, visando capacitar indivíduos a atingir todo o seu potencial linguístico.<br><br> Por meio da inteligência artificial, nossa plataforma produz um material de apoio essencial, elaborado para tornar a experiência de aprendizado não apenas envolvente, mas também irresistivelmente atrativa, através da gamificação do ensino e da aplicação de diversas metodologias.<br><br> Nosso compromisso é proporcionar uma jornada educacional dinâmica e inspiradora, adaptada a cada usuário, visando atender às suas necessidades individuais e otimizar seu processo de aprendizagem.</h3>
