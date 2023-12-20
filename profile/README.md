@@ -54,7 +54,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/leonardo-sardinha/" target="_blank" style="display: inline-block; text-decoration: none;">
-    <img src="https://github.com/Tutora-ia/.github/assets/144457305/73a0b213-d95d-4275-a28d-a194e63056c7" alt="Leonardo" style="display: block; width: 325px; height: auto; margin-right: 20px;" align="right">
+    <img src="https://github.com/Tutora-ia/.github/assets/144457305/4f4703f1-d2ab-4e47-91bd-b440468360d5" alt="Leonardo" style="display: block; width: 325px; height: auto; margin-right: 20px;" align="right">
 </a>
 
 <a href="https://www.linkedin.com/in/marcos-sena2612/" target="_blank" style="display: inline-block; text-decoration: none;">
